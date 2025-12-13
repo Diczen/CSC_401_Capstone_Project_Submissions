@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets 
+training/X_train_df.csv
+
+# Gradio cache
+.gradio/
+
+# Virtual environments
+venv/
+env/
+.env
