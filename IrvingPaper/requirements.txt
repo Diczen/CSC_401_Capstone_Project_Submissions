@@ -1,0 +1,7 @@
+numpy
+pandas
+torch>=1.10.0
+transformers>=4.15.0
+nltk
+scikit-learn
+gradio==2.7.5.1
